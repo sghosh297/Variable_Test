@@ -1,1 +1,1 @@
-<iframe src='https://tradingeconomics.com/embed/?s=unitedkinconpriindcp&v=202410171620V20230410&h=240&w=400&ref=/united-kingdom/consumer-price-index-cpi' height='240' width='400'  frameborder='0' scrolling='no'></iframe>
+<iframe src='https://tradingeconomics.com/embed/?s=unitedkinconpriindcp&v=202410171620V20230410&h=220&w=350&ref=/united-kingdom/consumer-price-index-cpi' height='220' width='350'  frameborder='0' scrolling='no'></iframe>
