@@ -1,1 +1,1 @@
-
+<iframe src='https://tradingeconomics.com/embed/?s=wgdpuk&projection=te&v=202410171546V20230410&h=300&w=600&ref=/united-kingdom/gdp&type=column&d1=2012-01-01&d2=2023-01-01' height='300' width='600'  frameborder='0' scrolling='no'></iframe>
