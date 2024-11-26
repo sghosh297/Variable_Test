@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Iframe Example</title>
+</head>
+<body>
+
+<h2>Select an Option to Load in Iframe</h2>
+<select id="urlSelector">
+    <option value="">Select URL</option>
+    <option value="https://tradingeconomics.com/united-kingdom/consumer-price-index-cpi">Page 1</option>
+    <option value="https://tradingeconomics.com/united-kingdom/consumer-confidence">Page 2</option>
+</select>
+
+<iframe id="dynamicIframe" src="" width="800" height="600" frameborder="0"></iframe>
+
+<script>
+    document.getElementById('urlSelector').addEventListener('change', function() {
+        var iframe = document.getElementById('dynamicIframe');
+        iframe.src = this.value; // Set the iframe src to the selected option
+    });
+</script>
+
+</body>
+</html>
